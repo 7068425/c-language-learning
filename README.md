@@ -1,2 +1,2 @@
-# learnC
-C
+C language learning
+
